@@ -1,0 +1,25 @@
+Zookeeper's Challenge, Zoo Population
+
+Hyena Habitat:
+hy01, Shenzi; Birthdate: 2021-03-21; tan color; female; 70 pounds; Sound: Laugh; From: from Friguia Park, Tunisia; Arrival Date: 2025-11-15
+hy02, Banzai; Birthdate: 2013-09-21; brown color; male; 150 pounds; Sound: Laugh; From: from Friguia Park, Tunisia; Arrival Date: 2025-11-15
+hy03, Ed; Birthdate: 2021-03-21; black color; male; 120 pounds; Sound: Laugh; From: from Friguia Park, Tunisia; Arrival Date: 2025-11-15
+hy04, Zig; Birthdate: 2017-01-01; black and tan striped color; female; 105 pounds; Sound: Laugh; From: from Friguia Park, Tunisia; Arrival Date: 2025-11-15
+
+Lion Habitat:
+li01, Shenzi; Birthdate: 2019-03-21; tan color; female; 300 pounds; Sound: ROAR!; From: from Zanzibar, Tanzania; Arrival Date: 2025-11-15
+li02, Banzai; Birthdate: 2013-12-21; dark tan color; female; 375 pounds; Sound: ROAR!; From: from KopeLion, Tanzania; Arrival Date: 2025-11-15
+li03, Ed; Birthdate: 2003-09-21; golden color; male; 450 pounds; Sound: ROAR!; From: from Zanzibar, Tanzania; Arrival Date: 2025-11-15
+li04, Zig; Birthdate: 2021-03-21; tan and brown color; female; 275 pounds; Sound: ROAR!; From: from KopeLion, Tanzania; Arrival Date: 2025-11-15
+
+Tiger Habitat:
+ti01, Shenzi; Birthdate: 2023-03-21; gold and tan stripes color; male; 270 pounds; Sound: Rawr?; From: from Dhaka, Bangladesh; Arrival Date: 2025-11-15
+ti02, Banzai; Birthdate: 2021-03-21; black stripes color; female; 400 pounds; Sound: Rawr?; From: from Dhaka, Bangladesh; Arrival Date: 2025-11-15
+ti03, Ed; Birthdate: 2007-09-21; gold and tan color; male; 300 pounds; Sound: Rawr?; From: from Bardia, Nepal; Arrival Date: 2025-11-15
+ti04, Zig; Birthdate: 2022-03-21; black stripes color; female; 285 pounds; Sound: Rawr?; From: from Bardia, Nepal; Arrival Date: 2025-11-15
+
+Bear Habitat:
+be01, Shenzi; Birthdate: 2018-03-21; brown color; male; 320 pounds; Sound: Yawn!; From: from Alaska Zoo, Alaska; Arrival Date: 2025-11-15
+be02, Banzai; Birthdate: 2000-03-21; black color; female; 425 pounds; Sound: Yawn!; From: from Woodland park Zoo, Washington; Arrival Date: 2025-11-15
+be03, Ed; Birthdate: 2021-09-21; black color; female; 355 pounds; Sound: Yawn!; From: from Woodland park Zoo, Washington; Arrival Date: 2025-11-15
+be04, Zig; Birthdate: 2021-03-21; brown color; male; 405 pounds; Sound: Yawn!; From: from Alaska Zoo, Alaska; Arrival Date: 2025-11-15

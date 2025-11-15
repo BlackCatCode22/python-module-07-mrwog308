@@ -1,0 +1,5 @@
+I started out attempting to make this program in a single file. I was well on my way, but decided to watch the video by the instructor Dennis Mohle.
+This gave me a new perspective on how to approach the entire project. I was able to create a constructor for the "animal" as a separate file. I then
+created a file for each individual aniamal type. I then created a "main" file that uses each individual file to build the "zoo inventory". This made
+it easy to read in information from the two files and build the required data for each animal.
+I learned a lot about classes and functions by completeing this exercise.
